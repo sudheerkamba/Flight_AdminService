@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.flightapp</groupId>
-	<artifactId>flight-AdminService</artifactId>
+	<artifactId>flight-admin-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Admin-service-flight-booking</name>
+	<name>flight-admin-service</name>
 	<description>Admin App for Airlines project</description>
 	<properties>
 		<java.version>11</java.version>
@@ -90,7 +90,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>flightAdmin</finalName>
+		<finalName>flight-admin</finalName>
 	</build>
 
 </project>
